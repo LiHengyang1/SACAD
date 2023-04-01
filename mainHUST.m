@@ -1,4 +1,4 @@
-% <<Comprehensive holographic internal beam modulation with spherical aberration compensation>>
+% <<Comprehensive holographic beam modulation with spherical aberration compensation inside material>>
 % the followed codes are used in article.
 % target distribution is three foci (equal energy).
 %% parameter definetion
