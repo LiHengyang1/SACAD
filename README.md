@@ -1,5 +1,5 @@
 # SACAD
-Code for Comprehensive Holographic Internal Beam Modulation with Spherical Aberration Compensation.
+Code for Comprehensive Holographic Parallel Beam Modulation inside Material based on Automatic Differentiation.
 
 Please run main3P.m or mainHUST.m. Others are functions.
 
